@@ -1,13 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "fuctions.h"
+#include <time.h>
 
 int main() {
+
     int n;
     printf("n=");
     scanf("%i",&n);
 
-    int* list = (int*)malloc(n*sizeof(int));
+    float* arr = (float*)malloc(n * sizeof(float));
 
     upload(list,n);
     print_out(list,n);

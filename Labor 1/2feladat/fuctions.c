@@ -9,8 +9,9 @@
 void upload(int* list, int n)
 {
     for (int i = 0; i < n; ++i) {
-        printf("The %i element of the array: ",i+1);
-        scanf("%i",&list[i]);
+        float num = (float)(rand() % 100);
+        float denum = (float)(rand() % 20);
+        list[i] = num / denum;
     }
 }
 

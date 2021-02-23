@@ -3,4 +3,4 @@ project(4feladat C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(4feladat main.c)
+add_executable(4feladat main.c function.c function.h)

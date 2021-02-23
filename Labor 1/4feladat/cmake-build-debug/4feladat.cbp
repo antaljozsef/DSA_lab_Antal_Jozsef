@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/function.c">
+			<Option target="4feladat"/>
+		</Unit>
+		<Unit filename="D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/function.h">
+			<Option target="4feladat"/>
+		</Unit>
 		<Unit filename="D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/main.c">
 			<Option target="4feladat"/>
 		</Unit>

@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/function.c" "D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/cmake-build-debug/CMakeFiles/4feladat.dir/function.c.obj"
   "D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/main.c" "D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/cmake-build-debug/CMakeFiles/4feladat.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

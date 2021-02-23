@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor2/2feladat/function.c
-function.h
 D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor2/2feladat/function.h
-stdio.h
-D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor2/2feladat/stdio.h
 
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor2/2feladat/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+function.h
 D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor2/2feladat/function.h
 

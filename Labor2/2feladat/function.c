@@ -4,12 +4,14 @@
 
 #include "function.h"
 #include "stdio.h"
-
+#include <time.h>
 
 int feltoltes(int* list, int n)
 {
+    srand(time(NULL));
+
     for (int i = 0; i < n; ++i) {
-        scanf("%i",&list[i]);
+        list[i] = rand();
     }
 }
 

@@ -1,15 +1,17 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 #include "function.h"
 
 int main() {
+    srand(time(NULL));
+
     int n;
     printf("n=");
     scanf("%i",&n);
 
-    int value;
-    printf("Add meg a keresett erteket! ");
-    scanf("%i ",&value);
+    int value = rand();
+    printf("%i\n",value);
 
     int *list = (int *)malloc(n*sizeof (int));
 

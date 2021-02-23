@@ -7,5 +7,4 @@
 int linerar_search(int* list,int n, int value);
 int feltoltes(int* list, int n);
 int kiiras(int *list, int n);
-
 #endif //INC_2FELADAT_FUNCTION_H

@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\DSA_lab_Antal_Jozsef.dir/objects.a
-C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\DSA_lab_Antal_Jozsef.dir/objects.a @CMakeFiles\DSA_lab_Antal_Jozsef.dir\objects1.rsp
-C:\PROGRA~1\CODEBL~1\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\DSA_lab_Antal_Jozsef.dir/objects.a -Wl,--no-whole-archive  -o DSA_lab_Antal_Jozsef.exe -Wl,--out-implib,libDSA_lab_Antal_Jozsef.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DSA_lab_Antal_Jozsef.dir\linklibs.rsp

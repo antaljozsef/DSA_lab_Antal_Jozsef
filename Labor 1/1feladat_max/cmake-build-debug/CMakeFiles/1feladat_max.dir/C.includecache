@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/1feladat_max/MAX_MIN.h
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/1feladat_max/main.c
+stdio.h
+-
+MAX_MIN.h
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/1feladat_max/MAX_MIN.h
+

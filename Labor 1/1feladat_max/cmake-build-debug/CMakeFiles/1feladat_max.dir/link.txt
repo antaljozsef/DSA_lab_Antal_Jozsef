@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\1feladat_max.dir/objects.a
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe cr CMakeFiles\1feladat_max.dir/objects.a @CMakeFiles\1feladat_max.dir\objects1.rsp
+C:\PROGRA~1\CODEBL~1\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\1feladat_max.dir/objects.a -Wl,--no-whole-archive  -o 1feladat_max.exe -Wl,--out-implib,lib1feladat_max.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1feladat_max.dir\linklibs.rsp

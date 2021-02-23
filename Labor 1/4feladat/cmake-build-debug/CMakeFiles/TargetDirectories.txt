@@ -1,0 +1,3 @@
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/cmake-build-debug/CMakeFiles/4feladat.dir
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor 1/4feladat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

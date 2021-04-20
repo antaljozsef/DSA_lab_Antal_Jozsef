@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Parcialis/2feladat/Function.c
+Function.h
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Parcialis/2feladat/Function.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Parcialis/2feladat/Function.h
+stdbool.h
+-
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Parcialis/2feladat/main.c
+stdio.h
+-
+Function.h
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Parcialis/2feladat/Function.h
+

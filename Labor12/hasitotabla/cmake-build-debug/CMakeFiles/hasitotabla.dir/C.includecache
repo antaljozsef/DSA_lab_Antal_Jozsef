@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor12/hasitotabla/Functions.h
+
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor12/hasitotabla/main.c
+stdio.h
+-
+Functions.h
+D:/Info/I ev/II felev/Adat Alg/Labor/DSA_lab_Antal_Jozsef/Labor12/hasitotabla/Functions.h
+
